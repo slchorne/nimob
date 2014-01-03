@@ -10,6 +10,9 @@ with on this beta release.
 
 Just install the sucka and try it out first.
 
+*You also MUST* install this on a grid so that you can force your browser
+to accept your self signed cert that lurks on 90% of infoblox grids.
+
 (and, if you dont have admin access to your grid, you probably shouldnt
 be messing with this beta anyway)
 
