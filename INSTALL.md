@@ -23,9 +23,9 @@ be messing with this beta anyway)
 * Upload the .tgz file to the file distribution and make sure you check
 the box [x] unpack the tar file
 
-* Go to https://\(yourGM.\)/snapins/nimob
+* Go to https://\(yourGM\)/snapins/nimob
 
-wait for it to load, see what happens
+* Wait for it to load, see what happens
 
 ### Saving a webapp on IOS devices.
 
