@@ -1,6 +1,16 @@
 RELEASE NOTES
 =============
 
+Features
+-------------
+
+* Add/Delete/Edit Hosts
+* Add/Delete/Edit authZones
+* Add/Delete/Edit Networks
+* Add/Delete/Edit Ranges
+* Add/Delete/Edit FixedAddresses
+* Approve/Reject Scheduled requests
+
 Version 0.1.b
 -------------
 
